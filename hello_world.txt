@@ -1,3 +1,5 @@
 This is a test file for a course from The Odin Project. 
 
-I want to write my own good commit  
+I want to write my own good commit .
+
+Adding more info to test adding a commit body.
